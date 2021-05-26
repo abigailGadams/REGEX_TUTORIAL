@@ -1,6 +1,6 @@
 # REGEX TUTORIAL - Matching An Email
 
-This tutorial provides a thourough yet concise explaination of the components that make up the regex for matching an email.
+This tutorial provides a thorough yet concise explanation of the components that make up the regex for matching an email.
 
 This regex is a sequence of characters that defines the specific search pattern used to identify a valid email address. It can be included in code or search algorithims in order to find certain patterns of characters within a string, or to find and replace characters or sequence of characters within the email string.
 
